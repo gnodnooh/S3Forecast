@@ -1,2 +1,2 @@
-# SeasonalFlowForecast
-This repository contains a seasonal streamflow forecast model.
+# S3Forecast
+This repository contains a SeaSonal Streamflow Forecast (S3Forecast) model.
