@@ -1,0 +1,11 @@
+# Ignore Mac system files
+.DS_store
+.ipynb_checkpoints
+__pychache__
+*.pyo
+*.pyc
+removable.ipynb
+
+# Ignore specific folders
+data
+references
