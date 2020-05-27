@@ -9,3 +9,6 @@ removable.ipynb
 # Ignore specific folders
 data
 references
+htcondor
+opener_functions.py
+opener_sspred.ipynb
